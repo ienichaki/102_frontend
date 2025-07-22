@@ -1,0 +1,27 @@
+*{
+    color:rgb(50, 66, 128);
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h2{
+
+    color: #608ba1;
+}
+
+h3{
+    color: rgb(6, 22, 44);
+}
+
+h1{
+    color: rgb(42, 63, 165);
+}
+
+#sports{
+    background-color: #adc1df;
+}
+
+#economy{
+    background-color: #adc1df;
+}
