@@ -25,3 +25,45 @@ h1{
 #economy{
     background-color: #adc1df;
 }
+
+body > header{
+    background-color: darkolivegreen;
+    padding: 16px;
+}
+
+header li{
+    display: inline;
+}
+
+header .container{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+}
+
+.container{
+    width: 1264px;
+    margin: 0, auto, 0, auto;
+}
+
+.articles{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.articles article{
+width: 30%;
+}
+
+section{
+    padding: 16px;
+}
+
+section h2,.articles article {
+    margin-bottom: 16px;
+}
+.articles article h3{
+    margin-top: 16px;
+    margin-bottom: 16px;
+}
