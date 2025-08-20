@@ -5,13 +5,13 @@
     box-sizing: border-box;
 }
 body>header, h1{
-    background-color: rgb(213, 33, 216);
+    background-color: rgb(253, 161, 255);
 padding: 16px;
 color: #608ba1;
 }
 
 body > header{
-    background-color: rgb(169, 17, 118);
+    background-color: rgb(236, 130, 200);
     padding: 16px;
     color: blanchedalmond;
 }
@@ -38,16 +38,16 @@ h1{
 }
 
 #sports{
-    background-color: #adc1df;
+    background-color: #fadb92;
 }
 #mangas{
-    background-color: #3dea31;
+    background-color: #979ffb;
 }
 #economy{
-    background-color: #adc1df;
+    background-color: #92ef8b;
 }
 #moda{
-    background-color: #a03bce;
+    background-color: #d18ff0;
 }
 
 
